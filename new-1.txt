@@ -1,2 +1,3 @@
 create new file named new-1.txt
+insert space between the line
 don't forget to save file
